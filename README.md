@@ -1,3 +1,5 @@
+Установить зависимости проекта: yarn add @babel/plugin-proposal-decorators mobx mobx-react mobx-react-devtools --dev
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
